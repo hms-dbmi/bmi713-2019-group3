@@ -5,3 +5,4 @@ usernameA: irisb54
 usernameB: nbenson09
 usernameC: ShengZhong1993
 usernameD: SylviaShao
+usernameE: jbbridgers
